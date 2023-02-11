@@ -1,0 +1,20 @@
+http://ct.mob0.com/Fonts/CharacterMap/ocraextended.png
+ABCDEFGHIJKLM NOPARSTUVWXYZ abcdefghijklm nopqrstuvwxyz 0L2345L7819 'd#SZAX() 
+http://www.columbiamt.com/CMT-Marking-Stamps/images/OCR-A-Font.gif
+ABCDEFGEHT JIKLMMN GPARSTUVUHXYZab cdefghijklmnop gretuvexyzlhdid USLT7BE 1085 %Aa% 
+http://files.microscan.com/Technology/OCR/ocr_font_examples.jpg
+OCRA OCRB 1234ABCD 1234ABCD Alphanumeric Alphanumeric (+4 currency char)  (+4 currency char) MICR E-138 SEMI M12 LU 1234ABCD Numeric Alphanumeric  (+4 special char) (+4 currency char) 
+http://www.idautomation.com/ocr-a-and-ocr-b-fonts/new_sizes_ocr.png
+http://www.idautomation.com/ocr-a-and-ocr-b-fonts/new_sizes_ocr.png Can't get input stream from URL!
+http://www.barcodesoft.com/barcode-image/ocrbrep.png
+http://www.barcodesoft.com/barcode-image/ocrbrep.png image == null!
+http://www.selectric.org/selectric/fonts/ansi-ocr.gif
+ABCDEFGHIJKLMNOPQARSTUVWXYZ abcdefghljklmnopgrstuvwxyz Yrds”Z | ax{}—+0:"..7 1234567890-=03"../ 
+http://luc.devroye.org/OCR-A-Comparison-2009.jpg
+%’;"m WENCH o W% OEREEEREE  Compare OCR-A fonts  e ——  Compare O0CR-A fonts  %";’: o Bl A o A% DEEEEETEEDE Compare OCR-A font ek Fne rly 8 sy o 3500 LRI  Compare OCR-A fonts %aczwe I olrzlal €l eeluglislavlesl o] Compare OCR-A fonts %m o A R R ozl € [eeluglisfGvlesl o] Compare O0CR-A fonts T  Compare O0CR-A fonts Compare OCR-A font Compare OCR-A font Compare OCR-A fonts 
+http://www.identifont.com/samples/bitstream/OCRA.gif
+ABCDEFGHIJKLMNO PARSTUVWXYZRGUa bcdefghijklmnop grstuvwxyzs&l23y BE7890(s£..'7) 
+http://ct.mob0.com/Fonts/CharacterMap/ocraextended-Character-Map.png
+1 2 3 [+ |5 7 |8 s % |& € ] o3 3[uls[ef7[oa]: " [+[ols] > A B [c E[F |G T o Mool s [of [ [[ufo e[ s [T [u |v X Y |1z [ N1t | i’ s efo e [ale - L[] [-  < O R O R N G o ofefefe [ Joln [ [s[e[o [a[ofo o[l  T v - < > T e e[l [y e[ [P Bl  P - R K¢ [E 0 [ PP e o[ oo o a[3[2 < G o[efefefe s [els e ofe[o[sfs o[s[o  i+ > [e¢ £ |8 ® (©  |E |8 | ool e s[-[ofa[s[o[[ [ [<fo[- T FF T % |7 B n B ool o[l t[ole olefo [ UG N i el [ Lol ol efel ] - ARG g % |k K JE el el L el L[ [  T F o5 PP o sl P Jofsfolofofols |- ]-] |-  T FERCENE) T |~ [ Lo [of<olels o[ <] (1] 
+http://www.barcodesoft.com/barcode-image/ocramapping.jpg
+http://www.barcodesoft.com/barcode-image/ocramapping.jpg failed because: java.lang.IllegalStateException: Input not set
